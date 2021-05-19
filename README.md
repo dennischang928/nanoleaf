@@ -1,3 +1,4 @@
 # nanoleaf
-It was a project about a diy nanoleaf with arduino program and processing user interface.
-We use Max485,ws2812 led string and bluetooth module in this project.
+It is a project about a diy nanoleaf with arduino program and processing user interface.
+We use Max485(UART), Ws2812 led string and Bluetooth module in this project.
+I use processing to control the nanoleaf via Bluetooth
